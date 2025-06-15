@@ -73,21 +73,6 @@ The server will start at `http://localhost:5000`
 
 Navigate to the `public` folder and open `index.html` in your browser.
 
----
-
-## 🧾 Folder Structure
-
-```
-email-breach-checker/
-├── server.js             # Express backend
-├── package.json          # Node.js project file
-├── public/
-│   ├── index.html        # UI form
-│   └── script.js         # Frontend JavaScript logic
-└── README.md             # Documentation
-```
-
----
 
 ## 🔌 Frontend-Backend Connection
 
