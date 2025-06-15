@@ -39,14 +39,6 @@ A **data breach** occurs when unauthorized individuals gain access to private, s
 | Chatbot     | JavaScript-based      | Assists in Telugu language support |
 | Middleware  | CORS                  | Enable cross-origin requests       |
 
----
-
-## 🎥 Demo
-
-📽️ *Add a short video or GIF here showcasing email input, result display, and chatbot usage.*
-*Example*: [demo-link](#)
-
----
 
 ## 🚀 Getting Started
 
